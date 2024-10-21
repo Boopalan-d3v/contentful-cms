@@ -1,6 +1,6 @@
 ## Netlify URL
 
-[Contentful CMS]()
+[Contentful CMS](https://contentful-cms-w3b.netlify.app/)
 
 ## Figma URL
 
